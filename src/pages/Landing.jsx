@@ -3,7 +3,6 @@ import "../styles/Landing.css";
 import { Hero, ProductElement, Stats } from "../components";
 import { useLoaderData, useNavigate } from "react-router-dom";
 import axios from "axios";
-import {SortinBanner} from "sortin-vite-library"
 
 export const landingLoader = async () => {
   const response = await axios(
