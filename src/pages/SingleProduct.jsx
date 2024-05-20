@@ -21,7 +21,7 @@ import {
 } from "../features/wishlist/wishlistSlice";
 import { toast } from "react-toastify";
 import { store } from "../store";
-import { Product } from "sortin-vite-library";
+import {Product} from "sortin-vite-library2"
 // import Sortin from 'harsh_trial_package'
 
 export const singleProductLoader = async ({ params }) => {

@@ -5,7 +5,7 @@ import "./index.css";
 import { store } from "./store";
 import { Provider } from "react-redux";
 import "react-toastify/dist/ReactToastify.css";
-import { SortinBanner } from "sortin-vite-library";
+import {SortinBanner} from "sortin-vite-library2"
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(

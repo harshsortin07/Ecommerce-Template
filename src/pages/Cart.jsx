@@ -3,7 +3,7 @@ import { CartItemsList, CartTotals, SectionTitle } from '../components'
 import { Link, useNavigate } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import { toast } from 'react-toastify';
-import { CartWidget } from 'sortin-vite-library';
+import {CartWidget} from "sortin-vite-library2"
 
 const Cart = () => {
   
