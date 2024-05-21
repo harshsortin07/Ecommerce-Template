@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <Provider store={store}>
       <App />
       <div id="sortin-banner">
-      <SortinBanner type='banner' />
+      <SortinBanner type='fab' />
       </div>
     </Provider>
 );
